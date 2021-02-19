@@ -1,0 +1,19 @@
+{
+  "name": "starter-rest-api-with-authentication",
+  "version": "1.0.0",
+  "description": "Simple REST API with user authentication build with Express and MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NataEn/Starter-REST-API-with-Authentication.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NataEn/Starter-REST-API-with-Authentication/issues"
+  },
+  "homepage": "https://github.com/NataEn/Starter-REST-API-with-Authentication#readme"
+}
